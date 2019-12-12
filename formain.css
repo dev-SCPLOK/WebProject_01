@@ -132,7 +132,7 @@
 {
   width: 100%;
   height: 100vh;
-  background-image:url(https://github.com/dev-SCPLOK/webproject01/blob/master/photo/roof2.jpg?raw=true);
+  background-image:url(photo/roof2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
